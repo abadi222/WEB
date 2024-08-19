@@ -1,0 +1,24 @@
+header{ float: left;
+;}
+
+li{float: left;
+padding: 10px;
+inline-size: 20px;
+text-decoration: none;
+list-style-type: none;
+text-align: center;
+width: 100px;
+margin: none;
+font-family: 'Courier New';
+}
+#title{font-size: larger;}
+
+.order{display: flex;
+justify-content: center;}
+
+.contact{width: 200px;
+    float: right;
+    display: flex;
+    align-self: flex-start;
+}
+.head{float: right;}
